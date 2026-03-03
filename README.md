@@ -16,7 +16,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Olá! Sou **Jonas Alexander**, Analista de Suporte e Infraestrutura com pós-graduação em **Segurança e Defesa Cibernética**. Atualmente me especializando na plataforma **Acronis Cyber Protect Cloud** e expandindo meus conhecimentos em segurança ofensiva e automação com Python.
+Olá! Sou **Jonas Alexander**, Analista de Suporte e Infraestrutura com pós-graduação em **Segurança e Defesa Cibernética**. Atualmente me especializando na plataforma **Acronis Cyber Protect Cloud** e expandindo meus conhecimentos em segurança e automação com Python.
 
 Apaixonado por tecnologia, segurança e por transformar ambientes complexos em operações simples, seguras e bem documentadas.
 
@@ -69,8 +69,6 @@ Passionate about technology, security, and turning complex environments into sim
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | 🔍 [**Port Scanner**](https://github.com/jonas-alexander/port-scanner) | Scanner de portas TCP educacional, comentado linha a linha em português | Python · Socket |
-| 🔒 *Em breve* | Scripts de automação via API Acronis | Python · REST API |
-| 📊 *Em breve* | Relatório automático de status de backup | Python · Acronis API |
 
 </div>
 
@@ -109,11 +107,18 @@ Passionate about technology, security, and turning complex environments into sim
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Certificações / Certifications
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonas-alexander&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1F5C99&icon_color=C03900&border_color=1F5C99"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-alexander&layout=compact&langs_count=6&theme=dark&title_color=1F5C99&border_color=1F5C99"/>
+
+| Certificado | Instituição | Área |
+|-------------|-------------|------|
+| 🛡️ **Resposta a Incidentes de Segurança da Informação** | Udemy | Cybersecurity |
+| 🖥️ **Microsoft Windows Server 2019 [Completo]** | Udemy | Infrastructure |
+| 🎯 **OKR** | Udemy | Management |
+| ⚡ **PowerShell para Profissionais de Infraestrutura** | Udemy | Automation |
+| 🔒 **Acronis Cyber Protect Cloud** | Acronis Academy | Backup & Security |
+
 </div>
 
 ---
