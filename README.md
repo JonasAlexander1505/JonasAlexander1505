@@ -1,16 +1,134 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:1F5C99&height=200&section=header&text=Jonas%20Alexander&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Infrastructure%20%7C%20Acronis&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
-<!--
-**JonasAlexander1505/JonasAlexander1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- PT / EN Toggle -->
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🇧🇷 Português** &nbsp;|&nbsp; **🇺🇸 English**
+
+</div>
+
+---
+
+## 🇧🇷 Sobre mim
+
+Olá! Sou **Jonas Alexander**, Analista de Suporte e Infraestrutura com pós-graduação em **Segurança e Defesa Cibernética**. Atualmente me especializando na plataforma **Acronis Cyber Protect Cloud** e expandindo meus conhecimentos em segurança ofensiva e automação com Python.
+
+Apaixonado por tecnologia, segurança e por transformar ambientes complexos em operações simples, seguras e bem documentadas.
+
+---
+
+## 🇺🇸 About me
+
+Hi! I'm **Jonas Alexander**, an IT Support & Infrastructure Analyst with a postgraduate degree in **Cybersecurity and Cyber Defense**. Currently specializing in the **Acronis Cyber Protect Cloud** platform and expanding my skills in offensive security and Python automation.
+
+Passionate about technology, security, and turning complex environments into simple, secure, and well-documented operations.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔐 Cybersecurity
+![Acronis](https://img.shields.io/badge/Acronis-Cyber%20Protect-C03900?style=for-the-badge&logo=acronis&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-003366?style=for-the-badge&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-Framework-1F5C99?style=for-the-badge&logoColor=white)
+
+### 💻 Systems & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### ☁️ Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networks-1F5C99?style=for-the-badge&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-IPsec%20%7C%20L2-003366?style=for-the-badge&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS%20%7C%20DHCP-Networking-555555?style=for-the-badge&logoColor=white)
+
+### 🐍 Development & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![API REST](https://img.shields.io/badge/REST_API-Automation-1F5C99?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque / Featured Projects
+
+<div align="center">
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| 🔍 [**Port Scanner**](https://github.com/jonas-alexander/port-scanner) | Scanner de portas TCP educacional, comentado linha a linha em português | Python · Socket |
+| 🔒 *Em breve* | Scripts de automação via API Acronis | Python · REST API |
+| 📊 *Em breve* | Relatório automático de status de backup | Python · Acronis API |
+
+</div>
+
+---
+
+## 📚 Atualmente estudando / Currently studying
+
+```text
+🔐 Acronis Cyber Protect Cloud     ████████████████████  Especialização
+🐍 Python para Cibersegurança      ████████░░░░░░░░░░░░  Em progresso
+☁️  Microsoft Azure (AZ-900)       ██████░░░░░░░░░░░░░░  Em progresso
+🛡️  CompTIA Security+              ████░░░░░░░░░░░░░░░░  Planejado
+🎯 eJPT - eLearnSecurity           ███░░░░░░░░░░░░░░░░░  Planejado
+```
+
+---
+
+## 🎯 Áreas de foco / Focus Areas
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🛡️  Backup & Disaster Recovery                        │
+│   🔍  Endpoint Detection & Response (EDR/XDR)           │
+│   📧  Email Security & Archiving                        │
+│   🖥️  RMM & Infrastructure Management                   │
+│   🤖  Security Automation with Python                   │
+│   ☁️  Cloud Security (Azure / AWS)                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonas-alexander&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1F5C99&icon_color=C03900&border_color=1F5C99"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-alexander&layout=compact&langs_count=6&theme=dark&title_color=1F5C99&border_color=1F5C99"/>
+</div>
+
+---
+
+## 🤝 Contato / Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonas_Alexander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-alexander/)
+[![GitHub](https://img.shields.io/badge/GitHub-jonas--alexander-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonas-alexander)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C99,100:003366&height=100&section=footer" width="100%"/>
+</div>
